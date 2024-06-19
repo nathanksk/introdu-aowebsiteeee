@@ -12,14 +12,9 @@ body {
     color: #333;
 }
 
-body h1 {
-    background-color: #000000;
-    color: white;
-}
-
 header {
     background-color: #333;
-    color: #140707;
+    color: #fff;
     padding: 20px 0;
 }
 
